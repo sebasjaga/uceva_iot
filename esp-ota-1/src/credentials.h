@@ -1,2 +1,2 @@
-#define MI_WIFI "FLIA_JARAMILLO_5G"
-#define MI_PASS "metalica0150"
+#define MI_WIFI "Hola"
+#define MI_PASS "1234567890"
